@@ -1,2 +1,26 @@
-# fashion-classifier
- Fashion Classifier A simple convolutional neural network (CNN) model to classify clothing items from images using the Fashion MNIST dataset. Useful for learning computer vision basics and building AI portfolios.
+پروژه کلاسیفایر تصاویر لباس
+این پروژه یک شبکه عصبی کانولوشنال ساده (CNN) برای دسته‌بندی تصاویر لباس با استفاده از دیتاست Fashion MNIST پیاده‌سازی شده است. هدف اصلی آن تمرین و یادگیری مفاهیم پایه بینایی ماشین و یادگیری عمیق می‌باشد.
+
+توضیح مهم:
+این پروژه صرفاً برای اهداف آموزشی و تمرینی ساخته شده و استفاده تجاری ندارد.
+
+ویژگی‌ها
+دسته‌بندی ۱۰ دسته مختلف لباس
+
+معماری ساده CNN با لایه‌های کانولوشن و کاهش نمونه‌برداری (Pooling)
+
+آموزش، ارزیابی مدل و نمایش نتایج
+
+دیتاست
+Fashion MNIST از شرکت Zalando
+
+شامل ۷۰ هزار تصویر خاکستری (۲۸×۲۸ پیکسل)
+
+نحوه اجرا
+نصب پیش‌نیازها:
+pip install -r requirements.txt
+
+اجرای اسکریپت آموزش برای آموزش و ارزیابی مدل
+
+نویسنده
+Samyar Zamani
